@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Tasks</string>
+    <string name="next">Next</string>
+    <string name="phone_no">Phone No</string>
+    <string name="email_id">Email Id</string>
+    <string name="sur_name">Sur Name</string>
+    <string name="first_name">First Name</string>
+    <string name="fill_registration_form">Fill Registration Form</string>
+    <string name="address">Address</string>
+    <string name="fill_your_detail">Fill your Detail</string>
+    <string name="college_university">College/University</string>
+    <string name="marks">Marks</string>
+    <string name="check_your_detail">Check your Detail</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="state">
+        <item> Delhi </item>
+        <item> Noida </item>
+        <item> Mumbai </item>
+        <item> Patna </item>
+    </string-array>
+
+
+</resources>
